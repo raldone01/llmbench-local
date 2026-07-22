@@ -1,0 +1,14 @@
+Model: starcoder2:15b
+Ollama Version: 0.32.1
+--- System Stats ---
+Hostname: argon
+CPU: 72 cores, Type: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+RAM: 180.79 GB available / 251.74 GB total
+GPU 0: NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 8095 MiB
+--- Ollama Stats ---
+load duration:        6.132842956s
+prompt eval count:    19 token(s)
+prompt eval duration: 135.308ms
+prompt eval rate:     140.42 tokens/s
+eval count:           38 token(s)
+eval duration:        913.067ms
