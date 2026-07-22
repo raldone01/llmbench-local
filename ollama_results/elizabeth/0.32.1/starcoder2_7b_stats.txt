@@ -1,0 +1,14 @@
+Model: starcoder2:7b
+Ollama Version: 0.32.1
+--- System Stats ---
+Hostname: elizabeth
+CPU: 16 cores, Type: AMD Ryzen 7 7840HS w/ Radeon 780M Graphics
+RAM: 5.30 GB available / 54.07 GB total
+GPU: No NVIDIA GPUs found or nvidia-smi not in PATH.
+--- Ollama Stats ---
+load duration:        7.629711641s
+prompt eval count:    19 token(s)
+prompt eval duration: 336.33ms
+prompt eval rate:     56.49 tokens/s
+eval count:           1281 token(s)
+eval duration:        1m58.129886s
