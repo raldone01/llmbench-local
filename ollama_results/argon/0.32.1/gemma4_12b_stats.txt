@@ -1,0 +1,14 @@
+Model: gemma4:12b
+Ollama Version: 0.32.1
+--- System Stats ---
+Hostname: argon
+CPU: 72 cores, Type: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+RAM: 167.45 GB available / 251.74 GB total
+GPU 0: NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 1031 MiB
+--- Ollama Stats ---
+load duration:        10.303098762s
+prompt eval count:    27 token(s)
+prompt eval duration: 220.508ms
+prompt eval rate:     122.44 tokens/s
+eval count:           2607 token(s)
+eval duration:        1m8.987167s

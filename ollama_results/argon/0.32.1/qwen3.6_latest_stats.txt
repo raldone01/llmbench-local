@@ -1,0 +1,14 @@
+Model: qwen3.6:latest
+Ollama Version: 0.32.1
+--- System Stats ---
+Hostname: argon
+CPU: 72 cores, Type: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+RAM: 167.45 GB available / 251.74 GB total
+GPU 0: NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 1031 MiB
+--- Ollama Stats ---
+load duration:        1m51.39106184s
+prompt eval count:    21 token(s)
+prompt eval duration: 1.012312s
+prompt eval rate:     20.74 tokens/s
+eval count:           4075 token(s)
+eval duration:        9m37.790384s

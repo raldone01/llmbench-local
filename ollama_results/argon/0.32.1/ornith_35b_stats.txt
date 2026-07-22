@@ -1,0 +1,14 @@
+Model: ornith:35b
+Ollama Version: 0.32.1
+--- System Stats ---
+Hostname: argon
+CPU: 72 cores, Type: Intel(R) Xeon(R) CPU E5-2699 v3 @ 2.30GHz
+RAM: 167.45 GB available / 251.74 GB total
+GPU 0: NVIDIA GeForce RTX 5060 Ti, 16311 MiB, 1031 MiB
+--- Ollama Stats ---
+load duration:        31.701820956s
+prompt eval count:    79 token(s)
+prompt eval duration: 1.303918s
+prompt eval rate:     60.59 tokens/s
+eval count:           1676 token(s)
+eval duration:        2m59.012214s
