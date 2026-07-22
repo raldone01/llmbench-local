@@ -21,6 +21,8 @@ MODELS = [
 PROMPT = "Write a python program showing off the astar algorithm."
 OUTPUT_DIR = "ollama_results"
 
+MODELS_TRIMMED = [mod.strip() for mod in MODELS]
+
 
 def get_ollama_version():
     """Gets the installed ollama version."""
@@ -119,7 +121,7 @@ def run_ollama_and_save():
         "eval duration",
     ]
 
-    for model in MODELS:
+    for model in MODELS_TRIMMED:
         safe_model_name = model.replace(":", "_")
         filepath = os.path.join(target_dir, f"{safe_model_name}_stats.txt")
 
