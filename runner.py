@@ -5,16 +5,17 @@ import re
 import os
 
 MODELS = [
-    "starcoder2:7b",
-    "starcoder2:3b",
-    "qwen2.5-coder:14b",
-    "qwen2.5-coder:7b",
-    "qwen3-coder:30b",
-    "gemma4:12b",
-    "gemma4:26b",
-    "gemma4:31b",
-    "qwen3.6:latest",
-    "ornith:35b",
+    "starcoder2:3b     ",
+    "starcoder2:7b     ",
+    "starcoder2:15b    ",
+    "qwen2.5-coder:7b  ",
+    "qwen2.5-coder:14b ",
+    "qwen3-coder:30b   ",
+    "qwen3.6:latest    ",
+    "gemma4:12b        ",
+    "gemma4:26b        ",
+    "gemma4:31b        ",
+    "ornith:35b        ",
 ]
 
 PROMPT = "Write a python program showing off the astar algorithm."
